@@ -1,0 +1,7 @@
+.env
+.env.txt
+data/
+__pycache__/
+*.pyc
+*.backup
+env.txt.backup
